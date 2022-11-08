@@ -1,0 +1,557 @@
+@media screen and (max-width:1122px) {
+    .background{
+        height: 22vh;
+       flex-direction: column;
+align-items: center;
+    }
+    .footer-logo {
+        margin-left: 66px;
+      }
+    .footer-content {
+        display: flex;
+        margin-left: 535px;
+        color: #fff;
+        margin-top: 20px;
+        margin-left: 85px;
+        flex-direction: column;
+      }
+      .contact-us h3 {
+        font-family: 'Nunito', sans-serif;
+        margin-left: 89px;}
+    .banner-img {
+        margin-left: 34px;
+        border-radius: 10px;
+        width: 26vw;
+        margin-top: 0px;
+      }
+      
+    .main-content-main1 img {
+        width: 87vw;
+        height: 37vh;
+        margin-left: 17px;
+        border-radius: 10px;
+      }
+      .totalviewcount1 {
+        box-sizing: border-box;
+        background-color: rgb(202, 196, 196);
+        border-radius: 12px;
+        height: 4vh;
+        box-shadow: 10px 5px 5px grey;
+        width: 3vw;
+        padding: 15px;
+        margin-left: 10px;
+        line-height: 8px;
+        border: 0 solid;
+        font-size: xx-large;
+      }
+    .rudrabatch {
+        background-color: rgb(248, 248, 248);
+        width: 92vw;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 10px;
+        border-radius: 30px;
+        box-shadow: 10px 5px 5px rgb(80, 79, 79);
+      }
+      .banner-img {
+        margin-left: 40px;
+        border-radius: 10px;
+        width: 85vw;
+        height: 21vh;
+      }
+      .main-side p {
+        background-color: rgb(10, 98, 239);
+        width: 100px;
+        text-align: center;
+        margin-left: 293px;
+        align-items: flex-end;
+        margin-left: 253px;
+        height: 26px;
+        color: #fff;
+        font-family: 'Nunito', sans-serif;
+        border-radius: 4px;
+      }
+    .pastyearquestion {
+        background-color: rgb(248, 248, 248);
+        width: 89vw;
+        box-shadow: 10px 5px 5px rgb(108, 100, 100);
+        margin-left: 19px;
+        border-radius: 30px;
+        font-family: Arial, Helvetica, }
+    .logo img{
+        height: 62px;
+width: 90px;
+margin-left: 288px;
+margin-top: 0px;
+    }
+    .cources {
+        display: flex;
+        flex-direction: column;}
+    .content-img img {
+        width: 251px;
+        height: 519px;
+        margin-left: -298px;
+        margin-top: 110px;}
+        .download-sentence h1 {
+            /* margin: -132px; */
+            color: rgb(9, 9, 18);
+            font-family: 'Nunito', sans-serif;
+            font-weight: bold;
+            line-height: 37px;
+          }
+          .download-sentence h1 {
+            margin-left: 3px;
+            color: rgb(9, 9, 18);
+            font-family: 'Nunito', sans-serif;
+            font-weight: bold;
+            line-height: 37px;
+            font-size: xx-large;
+            width: 58vw;}
+            .download2 {
+                display: flex;
+                flex-direction: column;}
+                .total-sub2 {
+                    display: flex;
+                    flex-direction: column;
+                  }
+                  .total-sub3 {
+                 
+                    margin-left: -2px;}
+                    .sub1 {
+                        box-sizing: border-box;
+                        background-color: rgb(202, 196, 196);
+                        border-radius: 41px;
+                        height: 4vh;
+                        width: 3vw;
+                        box-shadow: 10px 5px 5px grey;
+                        padding: 15px;
+                        margin-left: 15px;
+                        line-height: 8px;
+                        border: 0 solid;
+                        font-size: xx-large;
+                      }
+                      .totalview {
+                        margin-left: 2px;}
+    h1 {
+        margin-left: 4px;
+        margin-top: 9px;
+        font-family: 'PT Serif', serif;
+        font-size: xx-large larger;
+        font-weight: normal;
+        word-spacing: 0px;
+        color: rgb(0, 0, 0);
+      }
+      .yoddhabatch {
+        background-color: rgb(248, 248, 248);
+        width: 94vw;
+        height: 70vh;
+        box-shadow: 10px 5px 5px rgb(108, 100, 100);
+        margin-left: 26px;
+        border-radius: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 490px;
+      }
+      .next1 {
+        display: flex;
+        width: 98vw;
+        height: 500px;
+        background: rgb(255 255 255);
+        border-radius: 800px / 450px;
+        /* margin-left: 9px; */
+        margin-top: -34px;
+        -webkit-box-pack: center;
+        justify-content: center;
+        font-size: 3rem;
+        line-height: 1;
+      }
+      .about-aman {
+        margin-left: -355px;
+        margin-top: 464px;
+        height: -66vh;
+        width: 47vw;
+        font-family: 'Nunito', sans-serif;
+      }
+      .aman-pic img {
+        margin-left: 19px;
+        margin-top: 34px;
+        height: 50vh;
+        width: 92vw;}
+        .next1 p{
+            margin-top: 220px;
+            margin-left: -37px;
+            font-size: smaller;
+          }
+          .next1 img {
+            width: 86px;
+            height: 169px;
+          }
+          .our-channel-content {
+            display: flex;
+            flex-direction: column;
+          }
+          h1.our-channels1 {
+            font-weight: bolder;
+            text-align: center;
+            margin-top: -100px;
+          }
+          .footer-page-flex {
+            display: flex;
+            height: 100vh;
+            background-color: grey;
+            flex-direction: column;
+          }
+          .channel-full-content {
+            background-color: rgb(255, 252, 252);
+            margin-left: 30px;
+            margin-top: 50px;
+            height: 34vh;
+            width: 95vw;
+            border-radius: 10px;
+            overflow: hidden;
+          }
+          .download {
+            background-color: rgb(248, 221, 225);
+            margin-top: -5px;
+            height: 120vh;
+            width: 95vw;
+            align-items: center;
+            margin-left: 17px;
+            border-radius: 20px;
+          }
+          .app-img1 img {
+            margin-left: -60px;
+            border-radius: 20px;
+            width: 58vw;
+            height: 31vh;
+          }
+          .ourchannel-link ul {
+            list-style: none;
+            color: #fff;
+            margin-top: 6px;
+            font-family: 'Nunito', sans-serif;
+            background-color: grey;
+          }
+          ul.support-content {
+            list-style: none;
+            color: white;
+            margin-top: 4px;
+            font-family: 'Nunito', sans-serif;
+          }
+          .social {
+            margin-left: 73px;}
+          
+          .footer-logo img {
+            width: 73vw;
+            height: 43vh;
+          }
+          .totalsub {
+            display: flex;
+            margin-top: 160px;
+          }
+}
+@media screen  and (max-width:800px) {
+    .nav-bar ul {
+        display: flex;
+        margin-top: -18px;
+        justify-content: center;
+        list-style: none;
+        flex-direction: column;
+      }
+      .totalsub {
+        display: flex;
+        margin-top: 160px;
+      }
+      .ourchannel-link ul {
+        list-style: none;
+        color: #fff;
+        margin-top: 6px;
+        font-family: 'Nunito', sans-serif;
+        background-color: grey;
+      }
+      .social {
+        margin-left: 73px;}
+      
+      ul.support-content {
+        list-style: none;
+        color: white;
+        margin-top: 4px;
+        font-family: 'Nunito', sans-serif;
+      }
+      .contact-us h3 {
+        font-family: 'Nunito', sans-serif;
+        margin-left: 89px;}
+      .footer-logo {
+        margin-left: 66px;
+      }
+      .footer-logo img {
+        width: 73vw;
+        height: 43vh;
+      }
+      .download2 {
+        display: flex;
+        flex-direction: column;}
+        .app-img1 img {
+            margin-left: -60px;
+            border-radius: 20px;
+            width: 58vw;
+            height: 31vh;
+          }
+          .footer-content {
+            display: flex;
+            margin-left: 535px;
+            color: #fff;
+            margin-top: 20px;
+            margin-left: 85px;
+            flex-direction: column;
+          }
+      .main-content-main1 img {
+        width: 87vw;
+        height: 37vh;
+        margin-left: 17px;
+        border-radius: 10px;
+      }
+      /* .download-sentence h1 {
+        margin: -95px;
+        color: rgb(9, 9, 18);
+        font-family: 'Nunito', sans-serif;
+        font-weight: bold;
+        line-height: 37px;
+        font-size: xx-large;
+        width: 58vw;} */
+      .download-sentence h1 {
+      
+        color: rgb(9, 9, 18);
+        font-family: 'Nunito', sans-serif;
+        font-weight: bold;
+        line-height: 37px;
+        margin-top: 3px;
+      }
+      .main-side p {
+        background-color: rgb(10, 98, 239);
+        width: 100px;
+        text-align: center;
+        margin-left: 293px;
+        align-items: flex-end;
+        margin-left: 253px;
+        height: 26px;
+        color: #fff;
+        font-family: 'Nunito', sans-serif;
+        border-radius: 4px;
+      }
+      .main-channel-button {
+        display: flex;
+        justify-content: center;
+        width: 153px;
+        margin-left: 60px;
+        color: white;
+        background-color: lightblue;
+      }
+      .main-channel-button {
+        display: flex;
+        justify-content: center;
+        width: 153px;
+        margin-left: 60px;
+        color: white;
+        background-color: lightblue;
+      }
+      .footer-page-flex {
+        display: flex;
+        height: 100vh;
+        background-color: grey;
+        flex-direction: column;
+      }
+      .channel-full-content {
+        background-color: rgb(255, 252, 252);
+        margin-left: 30px;
+        margin-top: 50px;
+        height: 34vh;
+        width: 95vw;
+        border-radius: 10px;
+        overflow: hidden;
+      }
+      .next1 img {
+        width: 86px;
+        height: 169px;
+      }
+      .our-channel-content {
+        display: flex;
+        flex-direction: column;
+      }
+      h1.our-channels1 {
+        font-weight: bolder;
+        text-align: center;
+        margin-top: -100px;
+      }
+      .next1 p{
+        margin-top: 220px;
+        margin-left: -37px;
+        font-size: smaller;
+      }
+      .next1 {
+        display: flex;
+        width: 98vw;
+        height: 500px;
+        background: rgb(255 255 255);
+        border-radius: 800px / 450px;
+        margin-left: 9px;
+        margin-top: -34px;
+        -webkit-box-pack: center;
+        justify-content: center;
+        font-size: 3rem;
+        line-height: 1;
+      }
+      .about-aman {
+        margin-left: -355px;
+        margin-top: 464px;
+        height: -66vh;
+        width: 47vw;
+        font-family: 'Nunito', sans-serif;
+      }
+      .aman-pic img {
+        margin-left: 19px;
+        margin-top: 34px;
+        height: 50vh;
+        width: 92vw;}
+      .nav-bar ul li {
+        margin-top: 12px;
+        margin-left: 50px;
+        font-family: 'Nunito', sans-serif;
+        font-size: smaller;
+}
+.contents button {
+    margin-top: 15px;
+    margin-left: -29px;
+    width: 225px;
+    align-items: center;
+    color: blue;
+    background-color: #fff;
+    border-radius: 0%;
+  }
+.rudrabatch {
+    background-color: rgb(248, 248, 248);
+    width: 92vw;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    border-radius: 30px;
+    box-shadow: 10px 5px 5px rgb(80, 79, 79);
+  }
+.nav-bar ul button {
+    
+    
+    height: 24px;
+}
+.pastyearquestion {
+    background-color: rgb(248, 248, 248);
+    width: 89vw;
+    box-shadow: 10px 5px 5px rgb(108, 100, 100);
+    margin-left: 19px;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, }
+h1 {
+    margin-left: 4px;
+    margin-top: 9px;
+    font-family: 'PT Serif', serif;
+    font-size: xx-large larger;
+    font-weight: normal;
+    word-spacing: 0px;
+    color: rgb(0, 0, 0);
+  }
+.logo img {
+    height: 62px;
+    width: 90px;
+    margin-left: -12px;
+    margin-top: -18px;
+}
+.totalviewcount1 {
+    box-sizing: border-box;
+    background-color: rgb(202, 196, 196);
+    border-radius: 12px;
+    height: 4vh;
+    box-shadow: 10px 5px 5px grey;
+    width: 3vw;
+    padding: 15px;
+    margin-left: 10px;
+    line-height: 8px;
+    border: 0 solid;
+    font-size: xx-large;
+  }
+  .banner-img {
+    margin-left: 34px;
+    border-radius: 10px;
+    width: 26vw;
+    margin-top: 0px;
+  }
+ 
+  
+.sidebar-main {
+    display: flex;
+    background-color: rgba(255, 218, 224, 0.947);
+    width: 3vw;
+    margin-top: 7px;
+    border-radius: 14px;
+    position: fixed;
+  }
+  .content-img img {
+    width: 251px;
+    height: 519px;
+    margin-left: -298px;
+    margin-top: 110px;
+}
+.sub1 {
+    box-sizing: border-box;
+    background-color: rgb(202, 196, 196);
+    border-radius: 41px;
+    height: 4vh;
+    width: 3vw;
+    box-shadow: 10px 5px 5px grey;
+    padding: 15px;
+    margin-left: 15px;
+    line-height: 8px;
+    border: 0 solid;
+    font-size: xx-large;
+  }
+.total-sub3 {
+  
+    margin-left: -2px;}
+.cources {
+    display: flex;
+    flex-direction: column;
+}
+.contents button {
+    margin-top: 15px;
+    margin-left: -29px;
+    width: 225px;
+    align-items: center;
+    color: blue;
+    background-color: #fff;
+    border-radius: 0%;
+  }
+  .yoddhabatch {
+    background-color: rgb(248, 248, 248);
+    width: 94vw;
+    height: 70vh;
+    box-shadow: 10px 5px 5px rgb(108, 100, 100);
+    margin-left: 26px;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 490px;
+  }
+  .banner-img {
+    margin-left: 40px;
+    border-radius: 10px;
+    width: 85vw;
+    height: 21vh;
+  }
+  .total-sub2 {
+    display: flex;
+    flex-direction: column;
+  }
+  .download {
+    background-color: rgb(248, 221, 225);
+    margin-top: -5px;
+    height: 120vh;
+    width: 95vw;
+    align-items: center;
+    margin-left: 17px;
+    border-radius: 20px;
+  }
+}

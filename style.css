@@ -259,7 +259,7 @@ height: 30vh;
 margin-left: 5px;
 }
 .our-channels{
-    background-color:lightblue;
+    background-color:rgb(198, 234, 246);
 
 }
 h1.our-channels1{
@@ -378,10 +378,12 @@ box-shadow: 10px 5px 5px rgb(245, 245, 245); ;
     margin-left: 45px;
     margin-top: 10px;
   }
- .banner-img{
-   margin-left: 40px;
-   border-radius: 10px;
- }
+  .banner-img {
+    margin-left: 40px;
+    border-radius: 10px;
+    height: 36vh;
+    width: 34vw;
+  }
  .channel-full-content button img{
     width: 57px;
     margin-left: 20px;
@@ -470,6 +472,7 @@ background-color: rgb(202, 196, 196);
 border-radius: 12px;
 height: 8vh;
 width: 3vw;
+box-shadow: 10px 5px 5px grey; 
 padding: 15px;
 margin-left: 15px;
 line-height: 8px;
@@ -492,6 +495,7 @@ box-sizing: border-box;
 background-color: rgb(202, 196, 196);
 border-radius: 12px;
 height: 8vh;
+box-shadow: 10px 5px 5px grey; 
 width: 3vw;
 padding: 15px;
 margin-left: 15px;
@@ -507,10 +511,15 @@ font-size: xx-large;
  .footer-content{
     display: flex;
     margin-left: 535px;
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 345px;
 
  }
  .footer-page-flex{
     display: flex;
+    height: 50vh;
+    background-color:  grey;
  }
  .footer-social img{
     width: 42px;
@@ -525,4 +534,96 @@ height: 37px;
         } */
  .footer-logo{
     margin-left: 110px;
+ }
+ 
+ .footer-logo img{
+    width: 18vw;
+height: 43vh;
+ }
+ .ourchannel-link ul{
+    list-style: none;
+color: #fff;
+margin-top: 20px;
+font-family: 'Nunito', sans-serif;
+background-color: grey;
+ }
+ 
+.ourchannel-link{
+    margin-left: 27px;
+}
+.email{
+    margin-left: -20px;
+    font-family: 'Nunito', sans-serif;
+
+}
+ p.email1 a{
+color: white;
+margin-left: 2px;
+font-family: 'Nunito', sans-serif;
+
+ }
+ .ourchannel-link{
+    margin-left: 100px;
+ }
+ .ourchannel-link ul li a{
+color: white;
+text-decoration: none;
+margin-top: 3px;
+font-family: 'Nunito', sans-serif;
+ }
+ li .link a{
+    margin-top: 20px;
+ }
+ 
+ .ourchannel-link ul a{
+    list-style: none;
+    color: white;
+    margin-top: 2px;
+    font-family: 'Nunito', sans-serif;
+ }
+  ul.support-content {
+list-style: none;
+color: white;
+margin-top: 15px;
+font-family: 'Nunito', sans-serif;
+
+ }
+ ul.support-content li a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+ }
+ .support{
+    margin-left: 90px;
+ }
+ li.links{
+    margin-top: 2px;
+ }
+ .footer-social{
+    height: 10vh;
+ }
+ .social{
+    margin-left: 625px;
+ }
+ .contact-us h3{
+    font-family: 'Nunito', sans-serif;
+ }
+ .support h3{
+    
+    
+    font-family: 'Nunito', sans-serif;
+ }
+ .ourchannel-link h3{
+    font-family: 'Nunito', sans-serif;
+
+ }
+ .right-reserve{
+    display: flex;
+    background-color: rgb(7, 7, 56);
+    height: 7vh;
+ }
+ .right-reserve p{
+    color: antiquewhite;
+    margin: auto;
+    font-family: 'Nunito', sans-serif;
  }
